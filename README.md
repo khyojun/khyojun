@@ -1,7 +1,19 @@
-- 👋 Hi, I’m @khyojun
-- 👀 I’m interested in java, spring
-- 🌱 I’m currently learning spring
-- 💞️ I’m looking to collaborate on any company 
+
+
+# ✋ khyojun's git
+
+- Hi, I’m khyojun
+- I am a Beginner 
+- I'm studying java & spring
+
+
+## ✏Blog
+https://velog.io/@nandong1104
+
+
+##
+
+
 
 <!---
 khyojun/khyojun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
