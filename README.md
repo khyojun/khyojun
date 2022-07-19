@@ -1,7 +1,7 @@
 
 # ✋ HELLO ✋ 
 
-### 📧 Contact Email : nandong5923@naver.com
+### 📧 Contact Email : nandong180@gmail.com
 ### 🔍 Study & Daily Blog : https://velog.io/@nandong1104
 
 <div align="left">
