@@ -1,8 +1,8 @@
 
-### HELLO 
+### ✋HELLO✋ 
 
-Contact Email : nandong5923@naver.com
-Study & Daily Blog : https://velog.io/@nandong1104
+## 📧 Contact Email : nandong5923@naver.com
+## 📌 Study & Daily Blog : https://velog.io/@nandong1104
 [![github stats](https://github-readme-stats.vercel.app/api?username=khyojun&show_icons=true&hide_border=False)](https://velog.io/@nandong1104)
 
 
