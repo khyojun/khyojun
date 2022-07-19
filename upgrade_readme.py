@@ -13,13 +13,13 @@ for idx, feed in enumerate(rss_feed['entries']):
     if idx> MAX_POST_NUM:
         break
     feed_date = feed['published_parsed']
-    latest_blog_post_list +=f"[{feed_date.tm_year}/{feed_date.tm_mon}/{feed_date.tm_mday} - {feed['title']}]({feed['link']}) <br>\n"
+    latest_blog_post_list +=f"<ul>[{feed_date.tm_year}/{feed_date.tm_mon}/{feed_date.tm_mday} - {feed['title']}]({feed['link']}) </ul><br>\n"
 
 markdown_text = """
-### HELLO 
+### ✋ HELLO ✋ 
 
-Contact Email : nandong5923@naver.com
-Study & Daily Blog : https://velog.io/@nandong1104
+# 📧 Contact Email : nandong5923@naver.com
+# 🔍 Study & Daily Blog : https://velog.io/@nandong1104
 [![github stats](https://github-readme-stats.vercel.app/api?username=khyojun&show_icons=true&hide_border=False)](https://velog.io/@nandong1104)
 
 
