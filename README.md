@@ -13,7 +13,6 @@
 
 <div align="left">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khyojun&show_icons=true&theme=swift)
-
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=nandong1104)](https://velog.io/@nandong1104)
 
 </div>
