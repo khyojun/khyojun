@@ -11,7 +11,7 @@
 
  📝 I regularly write articles on [velog.io/@nandong1104](velog.io/@nandong1104)
 
- 📫 How to reach me **nandong5923@naver.com**
+ 📫 How to reach me **khyojun1104@gmail.com**
 
 </div>
 
