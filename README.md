@@ -28,7 +28,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khyojun&" alt="khyojun" /></p>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=khyojun)](https://github.com/nandong1104/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=nandong1104)](https://github.com/nandong1104/velog-readme-stats)
 
 </div>
 
