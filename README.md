@@ -9,7 +9,7 @@
 
  🌱 I’m currently learning **Spring, python**
 
- 📝 I regularly write articles on [velog.io/@nandong1104](velog.io/@nandong1104)
+ 📝 I regularly write articles on [https://velog.io/@nandong1104](https://velog.io/@nandong1104)
 
  📫 How to reach me **khyojun1104@gmail.com**
 
@@ -27,6 +27,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khyojun&show_icons=true&locale=en" alt="khyojun" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khyojun&" alt="khyojun" /></p>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=nandong1104)](https://velog.io/@nandong1104)
 
 
 </div>
