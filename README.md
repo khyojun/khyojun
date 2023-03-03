@@ -5,7 +5,6 @@
 <h3 align="center">Passionation newbie developer</h3>
 <div align="center">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=khyojun&label=Profile%20views&color=0e75b6&style=flat" alt="khyojun" /> </p>
 
  🌱 I’m currently learning **Spring, python**
 
