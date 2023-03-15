@@ -8,7 +8,7 @@
 
  🌱 I’m currently learning **Spring, python**
 
- 📝 I regularly write articles on [https://velog.io/@nandong1104](https://velog.io/@khyojun)
+ 📝 I regularly write articles on [https://velog.io/@khyojun](https://velog.io/@khyojun)
  
 [![Velog's GitHub stats](https://velog-readme-2.vercel.app/api/badge-stats?name=khyojun)](https://velog.io/@khyojun)
 
