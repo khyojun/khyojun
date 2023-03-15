@@ -8,9 +8,9 @@
 
  🌱 I’m currently learning **Spring, python**
 
- 📝 I regularly write articles on [https://velog.io/@khyojun](https://velog.io/@khyojun)
+ 📝 I regularly write articles on [https://velog.io/@nandong1104](https://velog.io/@nandong1104)
  
-[![Velog's GitHub stats](https://velog-readme-2.vercel.app/api/badge-stats?name=khyojun)](https://velog.io/@khyojun)
+[![Velog's GitHub stats](https://velog-readme-2.vercel.app/api/badge-stats?name=nandong1104)](https://velog.io/@nandong1104)
 
  📫 How to reach me **khyojun1104@gmail.com**
 
@@ -27,12 +27,12 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khyojun&" alt="khyojun" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandong1104&" alt="nandong1104" /></p>
 
  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=nandong1104)](https://solved.ac/nandong1104)
 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=khyojun)](https://velog.io/@khyojun)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=nandong1104)](https://velog.io/@nandong1104)
 
 </div>
 
