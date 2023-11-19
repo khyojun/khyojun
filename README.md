@@ -10,7 +10,8 @@
 
  📝 I regularly write articles on [https://velog.io/@nandong1104](https://velog.io/@nandong1104)
  
-[![Velog's GitHub stats](https://velog-readme-2.vercel.app/api/badge-stats?name=nandong1104)](https://velog.io/@nandong1104)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=nandong1104)](https://velog.io/@nandong1104) 
+
 
  📫 How to reach me **khyojun1104@gmail.com**
 
