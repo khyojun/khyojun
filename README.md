@@ -28,11 +28,10 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khyojun&" alt="khyojun" /></p>
-
- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=nandong1104)](https://solved.ac/nandong1104)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khyojun)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=nandong1104)](https://solved.ac/nandong1104)
+
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=nandong1104)](https://velog.io/@nandong1104)
 
