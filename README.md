@@ -20,7 +20,7 @@
 </div>
 
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Major Languages and Frameworks:</h3>
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
 
 <div align="center">
