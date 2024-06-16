@@ -47,25 +47,31 @@
 </p>
 
 <div align="center">
-  <a href="https://solved.ac/nandong1104">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=nandong1104" alt="Solved.ac Profile"/>
-  </a>
+  <table border="0">
+    <tr>
+      <td align="center">
+        <a href="https://solved.ac/nandong1104">
+          <img src="http://mazassumnida.wtf/api/generate_badge?boj=nandong1104" alt="Solved.ac Profile"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://velog.io/@nandong1104">
+          <img src="https://velog-readme-stats.vercel.app/api?name=nandong1104" alt="Velog's GitHub stats"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khyojun&show_icons=true&locale=en&layout=compact" alt="khyojun" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=khyojun&show_icons=true&locale=en" alt="khyojun" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=khyojun&" alt="khyojun" />
+      </td>
+    </tr>
+  </table>
 </div>
-
-<div align="center">
-  <a href="https://velog.io/@nandong1104">
-    <img src="https://velog-readme-stats.vercel.app/api?name=nandong1104" alt="Velog's GitHub stats"/>
-  </a>
-</div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khyojun&show_icons=true&locale=en&layout=compact" alt="khyojun" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khyojun&show_icons=true&locale=en" alt="khyojun" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khyojun&" alt="khyojun" />
-</p>
