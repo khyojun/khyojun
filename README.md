@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  🔭 I’m currently working on <a href="https://github.com/capstone-kw-jjiggle/gitbal-be">gitbal-be</a> <br />
+  🔭 I’m currently working on <a href="https://github.com/capstone-kw-jjiggle/gitbal-be">gitbal-be</a> And <a href="https://github.com/morib-in/Morib-Server-v2">Morib-BE</a><br />
   🌱 I’m currently learning <strong>spring, java</strong> <br />
   📝 I regularly write articles on <a href="https://velog.io/@nandong1104/posts">velog.io</a> <br />
   📫 How to reach me <strong>khyojun1104@gmail.com</strong>
