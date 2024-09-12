@@ -9,7 +9,12 @@
   🔭 I’m currently working on <a href="https://github.com/capstone-kw-jjiggle/gitbal-be">gitbal-be</a> And <a href="https://github.com/morib-in/Morib-Server-v2">Morib-BE</a><br />
   🌱 I’m currently learning <strong>spring, java</strong> <br />
   📝 I regularly write articles on <a href="https://velog.io/@nandong1104/posts">velog.io</a> <br />
+  📝 Here is my notion portfolio <a href="https://khyojun.notion.site/API-7bd041f301364c1da11ff4dffe746236?pvs=4">Notion Portfolio</a> <br />
   📫 How to reach me <strong>khyojun1104@gmail.com</strong>
+  
+  
+ 
+ 
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
