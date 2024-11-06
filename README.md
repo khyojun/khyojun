@@ -76,9 +76,6 @@
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=khyojun&" alt="khyojun" />
-      </td>
     </tr>
   </table>
 
