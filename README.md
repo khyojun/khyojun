@@ -5,6 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=khyojun&label=Profile%20views&color=0e75b6&style=flat" alt="khyojun" />
 </p>
 
+
+[![rankit-badge](https://rankit.run/badge?name=khyojun)](https://www.rankit.run)
+
+
 <div align="center">
   🔭 I’m currently working on <a href="https://github.com/capstone-kw-jjiggle/gitbal-be">gitbal-be</a> And <a href="https://github.com/morib-in/Morib-Server-v2">Morib-BE</a><br />
   🌱 I’m currently learning <strong>spring, java</strong> <br />
