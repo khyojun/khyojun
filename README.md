@@ -57,33 +57,8 @@
   </a>
 </p>
 
-
-
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <a href="https://solved.ac/nandong1104">
-          <img src="http://mazassumnida.wtf/api/generate_badge?boj=nandong1104" alt="Solved.ac Profile"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://velog.io/@nandong1104">
-          <img src="https://velog-readme-stats.vercel.app/api?name=nandong1104" alt="Velog's GitHub stats"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khyojun&show_icons=true&locale=en&layout=compact" alt="khyojun" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=khyojun&show_icons=true&locale=en" alt="khyojun" />
-      </td>
-    </tr>
-    <tr>
-    </tr>
-  </table>
+  
+<img src="https://velog-github-badge.vercel.app/badge/nandong1104"/>
 
-</a>
 </div>
