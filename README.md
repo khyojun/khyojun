@@ -1,64 +1,27 @@
-<h1 align="center">Hi 👋, I'm khyojun</h1>
-<h3 align="center">A passionate backend developer from Korea</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khyojun&label=Profile%20views&color=0e75b6&style=flat" alt="khyojun" />
-</p>
 
-<div align="center">
-  
+## Own Public Git Contributions Badge
 [![rankit-badge](https://badge.rankit.run/badge?name=khyojun)](https://www.rankit.run)
 
-</div>
-
-<div align="center">
-  🔭 I’m currently working on <a href="https://github.com/capstone-kw-jjiggle/gitbal-be">gitbal-be</a> And <a href="https://github.com/morib-in/Morib-Server-v2">Morib-BE</a><br />
-  🌱 I’m currently learning <strong>spring, java</strong> <br />
-  📝 I regularly write articles on <a href="https://velog.io/@nandong1104/posts">velog.io</a> <br />
-  📝 Here is my notion portfolio <a href="https://khyojun.notion.site/API-7bd041f301364c1da11ff4dffe746236?pvs=4">Portfolio</a> <br />
-  📫 How to reach me <strong>khyojun1104@gmail.com</strong>
-  
-  
  
- 
-</div>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  </a>
-</p>
-
-<div align="center">
-  
+## Blog Posts
 <img src="https://velog-github-badge.vercel.app/badge/nandong1104"/>
 
-</div>
+
+## Contribution Farm
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/khyojun"
+  width="600"
+  height="300"
+/>
+</a>
+
+
+## Experiences
+- [It's Time 3기 백엔드](https://github.com/itstime22) 2023.02 ~ 2023.07
+- STCLAB CTO-STAFF(intern) 2023.07 ~ 2023.08
+- GDSC KW BE-CORE 2023.09 ~ 2024.09
+- Naon WORKS(intern) 2024.01~ now
+- [ACC(Aws Cloud Club) 광운대 1기](https://github.com/aws-cloud-clubs) 2024.04 ~ now
+- [SOPT 35th Server Part Member](https://github.com/SOPT-all) 2024.09 ~ now
