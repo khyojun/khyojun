@@ -1,20 +1,20 @@
 
 
-## Own Public Git Contributions Badge
+### Git Contributions Badge
 [![rankit-badge](https://badge.rankit.run/badge?name=khyojun)](https://www.rankit.run)
 
  
-## Blog Posts
+### Blog Posts
 <img src="https://velog-github-badge.vercel.app/badge/nandong1104"/>
 
 
-## Contribution Farm
+### Contribution Farm
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/khyojun"/>
 </a>
 
 
-## Experiences
+### Experiences
 - [It's Time 3기 백엔드](https://github.com/itstime22) 2023.02 ~ 2023.07
 - STCLAB CTO-STAFF(intern) 2023.07 ~ 2023.08
 - GDSC KW BE-CORE 2023.09 ~ 2024.09
