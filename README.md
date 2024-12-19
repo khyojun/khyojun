@@ -13,6 +13,13 @@
   <img src="https://render.gitanimals.org/farms/khyojun"/>
 </a>
 
+### Contributions
+- **spring-projects/spring-framework**
+   - [PR Link](https://github.com/spring-projects/spring-framework/pull/33650)
+      - Polish CorsConfiguration
+
+
+
 
 ### Experiences
 - [It's Time 3기 백엔드](https://github.com/itstime22) 2023.02 ~ 2023.07
